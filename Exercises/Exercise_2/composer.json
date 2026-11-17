@@ -1,0 +1,17 @@
+{
+    "name": "angele/exercise_2",
+    "autoload": {
+        "psr-4": {
+            "Angele\\Exercise2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DENYS Angele",
+            "email": "angele.denys@telecomnancy.net"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.7"
+    }
+}

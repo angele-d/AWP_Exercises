@@ -1,0 +1,8 @@
+vendor/
+.env
+
+# Task 1
+/task_1/backups/
+
+# Task 3
+/task_3/files/
